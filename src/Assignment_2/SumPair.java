@@ -1,4 +1,4 @@
-package Foxmula_Assignment2;
+package Assignment_2;
 import java.io.*;
 import java.util.*;
 public class SumPair {

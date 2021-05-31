@@ -1,4 +1,4 @@
-package Foxmula_Assignment_OOPSConcept;
+package Assignment_1;;
 public class Quadrilateral {
     int xy[][] = new int[4][2]; //4 end points specified
 

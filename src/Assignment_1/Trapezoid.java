@@ -1,4 +1,4 @@
-package Foxmula_Assignment_OOPSConcept;
+package Assignment_1;
 
 class Trapezoid extends Quadrilateral {
     private int height;

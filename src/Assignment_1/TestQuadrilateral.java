@@ -1,4 +1,4 @@
-package Foxmula_Assignment_OOPSConcept;
+package Assignment_1;
 import java.util.*;
 public class TestQuadrilateral {
 

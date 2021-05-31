@@ -1,5 +1,4 @@
-package Foxmula_Assignment_OOPSConcept;
-
+package Assignment_1;
 public class Square extends Quadrilateral {
 
     Square(int xy[][]){

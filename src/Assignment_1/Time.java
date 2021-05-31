@@ -1,4 +1,4 @@
-package Foxmula_Assignment_OOPSConcept;
+package Assignment_1;
 
 public class Time {
 

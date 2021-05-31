@@ -1,4 +1,4 @@
-package Foxmula_Assignment_OOPSConcept;
+package Assignment_1;
 
 class Parallelogram extends Quadrilateral {
     private int height;
